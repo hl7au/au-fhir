@@ -1,2 +1,2 @@
 # au-fhir
-Supporting HL7 AU discussions 
+This repository support the hosting of discussion board for general, non-specific, or uncategorised work on HL7 AU FHIR implementation guide material.
